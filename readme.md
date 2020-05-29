@@ -1,0 +1,1 @@
+A collection of some of the solutions of the problems I've solved on various competitive programming websites
